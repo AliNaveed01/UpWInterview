@@ -1,0 +1,11 @@
+{"ts":"2026-11-02T09:00:05Z","user_id":"u1","app":"NetSuite","label":"Search","text":"Invoice INV-2026-000417"}
+{"ts":"2026-11-02T09:02:40Z","user_id":"u1","app":"NetSuite","label":"Order","text":"Order 5432 1098 7654 3210 matched to PO-88213"}
+{"ts":"2026-11-02T09:06:12Z","user_id":"u1","app":"Outlook","label":"To","text":"ap-team@acme-example.com"}
+{"ts":"2026-11-02T09:14:59Z","user_id":"u1","app":"NetSuite","label":"Button","text":"Approve invoice"}
+{"ts":"2026-11-02T09:24:59Z","user_id":"u1","app":"Coupa","label":"Search","text":"New vendor request"}
+{"ts":"2026-11-02T09:41:30Z","user_id":"u1","app":"Coupa","label":"Full name","text":"Rahul Mehta"}
+{"ts":"2026-11-02T09:43:10Z","user_id":"u1","app":"Coupa","label":"Phone","text":"+91 98450 12345"}
+{"ts":"2026-11-02T09:47:02Z","user_id":"u1","app":"Coupa","label":"Button","text":"Submit vendor onboarding"}
+{"ts":"2026-11-02T10:05:00Z","user_id":"u2","app":"Expensify","label":"Search","text":"expense report ER-1182"}
+{"ts":"2026-11-02T10:07:30Z","user_id":"u2","app":"Expensify","label":"Card","text":"Charged to 4539 1488 0343 6467"}
+{"ts":"2026-11-02T10:09:45Z","user_id":"u2","app":"Expensify","label":"Button","text":"Approve expense"}
